@@ -147,7 +147,7 @@ The app will show real-time progress:
 
 **Made by MysticMovies**  
 Visit us at: [mysticmovies.site](http://mysticmovies.site)  
-For support, Contact us on Telegram : [Imran Khan](https://t.me/@imrankhan95)
+For support, Contact us on Telegram : [Imran Khan](https://telegram.me/imrankhan95)
 
 ## License
 
