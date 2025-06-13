@@ -2,7 +2,7 @@
 
 A Flask-based web application that splits large video files into smaller parts and uploads them to Telegram, bypassing the 2GB file size limit.
 
-[App Screenshot]([https://via.placeholder.com/800x500.png?text=Video+Splitter+%26+Telegram+Uploader](https://raw.githubusercontent.com/Imrankhan9559/Telegram-Uploader/refs/heads/main/Assets/Screenshot%202025-06-14%20002115.png))
+[App Screenshot](https://raw.githubusercontent.com/Imrankhan9559/Telegram-Uploader/refs/heads/main/Assets/Screenshot%202025-06-14%20002115.png)
 
 ## Features
 
